@@ -1,1 +1,1 @@
-#### CS 310 (Mobile Computing) Project
+## CS 310 (Mobile Computing) Project
