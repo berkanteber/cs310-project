@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MiserApp</string>
+    <string name="tab_text_1">All Items</string>
+    <string name="tab_text_2">Favorite Items</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="addItemActivityHeader">Add Item</string>
+    <string name="item_name">Item Name:</string>
+    <string name="item_url">Item URL:</string>
+    <string name="submit_url_button">Get Product</string>
+    <string name="hint_insert_here_item_url">Insert item URL</string>
+    <string name="content_description_item_image_will_be_here">item image will be here</string>
+    <string name="hint_insert_here_item_name">Item name from URL</string>
+    <string name="hint_insert_here_item_price">Item price from URL</string>
+    <string name="item_price">Item Price:</string>
+    <string name="item_details_header">Item Details</string>
+    <string name="alarm_settings_header">Alarm Settings</string>
+    <string name="text_alarm_on_off">Alarm on/off</string>
+    <string name="radio_group_header_text">Notify when the price decreases by:</string>
+    <string name="percent5">5%</string>
+    <string name="percent10">10%</string>
+    <string name="percent15">15%</string>
+    <string name="percent20">20%</string>
+    <string name="save_item_button">Save Item</string>
+    <string name="fab_description">Add new item to shop list</string>
+    <string name="arrow_that_shows_the_change_direction">arrow that shows the change direction</string>
+</resources>
